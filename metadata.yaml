@@ -10,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/696
 description: This book has undergone multiple editions, and is available as Project
   Gutenberg eBook numbers 1694, 6603, 13376, 36299 and 40780.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40780#Our-Legal-Heritage--King-AEthelbert---King-George-III-600-A.D.---1776
 gutenberg_bookshelf: British Law
 gutenberg_issued: '2012-09-16'
 gutenberg_type: Text
